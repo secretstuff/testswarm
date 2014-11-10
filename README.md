@@ -1,3 +1,5 @@
+This is a fork of testswarm
+
 TestSwarm - Distributed Continuous Integration for JavaScript
 =================
 
@@ -11,7 +13,7 @@ The main instance monitoring jQuery core and related projects runs at
 Quick start
 ----------
 
-Clone the repo, `git clone --recursive git://github.com/jquery/testswarm.git`.
+Clone the repo, `git clone --recursive git://github.com/secretstuff/testswarm.git`.
 
 
 Versioning
@@ -32,7 +34,7 @@ Bug tracker
 -----------
 
 Found a bug? Please report it using our [issue
-tracker](https://github.com/jquery/testswarm/issues)!
+tracker](https://github.com/secretstuff/testswarm/issues)!
 
 
 Installation
@@ -56,7 +58,7 @@ may work as well.
 1. Copy `config/sample-localSettings.php` to `config/localSettings.php`<br/>
    Copy `config/sample-localSettings.json` to `config/localSettings.json`.<br/>
    Edit `localSettings.json` and replace the sample settings with your own.<br/>
-   Refer to the [Settings page](https://github.com/jquery/testswarm/wiki/Settings) for more information.
+   Refer to the [Settings page](https://github.com/secretstuff/testswarm/wiki/Settings) for more information.
 
 1. *For Apache:*<br/>
    Copy `config/sample-.htaccess` to `.htaccess`.<br/>
@@ -107,32 +109,21 @@ may work as well.
 Get involved
 ---------------------
 
-You're welcome to use the GitHub [issue tracker](https://github.com/jquery/testswarm/issues)
+You're welcome to use the GitHub [issue tracker](https://github.com/secretstuff/testswarm/issues)
  to start discussions.
-
-Or post to the [QUnit and Testing forum](https://forum.jquery.com/qunit-and-testing).
-
-Most of us are also on IRC in the
-[#jquery-dev](http://webchat.freenode.net/?channels=jquery-dev) channel at
-irc.freenode.net
-
-Planning for TestSwarm and other projects related to testing of javascript
-applications based around jQuery happens on the [jQuery Testing Team
-wiki](http://jquerytesting.pbworks.com)
-
 
 Documentation
 ---------------------
 
-* [TestSwarm wiki](https://github.com/jquery/testswarm/wiki)
-* [Submit jobs README](https://github.com/jquery/testswarm/blob/master/scripts/addjob/README.md)
-* [more wiki pages](https://github.com/jquery/testswarm/wiki/_pages)
+* [TestSwarm wiki](https://github.com/secretstuff/testswarm/wiki)
+* [Submit jobs README](https://github.com/secretstuff/testswarm/blob/master/scripts/addjob/README.md)
+* [more wiki pages](https://github.com/secertstuff/testswarm/wiki/_pages)
 
 
 Copyright and license
 ---------------------
 
-See [LICENSE.txt](https://raw.github.com/jquery/testswarm/master/LICENSE.txt).
+See [LICENSE.txt](https://raw.github.com/secretstuff/testswarm/master/LICENSE.txt).
 
 
 History
